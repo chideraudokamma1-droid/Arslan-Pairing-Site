@@ -74,8 +74,8 @@ router.get('/', async (req, res) => {
 ║ 『••• _V𝗶𝘀𝗶𝘁 𝗙𝗼𝗿_H𝗲𝗹𝗽 •••』
 ║❍ 𝐎𝐰𝐧𝐞𝐫: 2349049565622
 ║❍ 𝐑𝐞𝐩𝐨: https://github.com/chideraudokamma1-droid/Deralink_MD
-║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/
+║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: 
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: 
 ║
 ║ ☬ ☬ ☬ ☬
 ╚═════════════════════╝
